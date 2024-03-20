@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhsyns
-- 👀 I’m interested in Applied mathematics , Computer Vision and Image processing
+- 👀 I’m interested in Applied mathematics , Quantitative Finance and Machine Learning
 - 📫 How to reach me bahouss.youness@gmail.com
 
 <!---
